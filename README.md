@@ -22,7 +22,7 @@ Building scalable MERN applications.
 
 Portfolio
 
-Live Portfolio
+Live Portfolio - https://amanprajapati-portfolio.netlify.app/
 
 Projects
 
